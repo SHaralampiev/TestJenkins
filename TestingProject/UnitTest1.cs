@@ -10,11 +10,6 @@ namespace TestingProject
         public void TestMethod()
         {
             Assert.AreEqual(1, 1);
-            //test
-            //test 2
-            Assert.AreEqual(2,3);
-            //test 3
-            //test 4
         }
     }
 }
