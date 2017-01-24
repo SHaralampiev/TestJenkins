@@ -12,6 +12,7 @@ namespace TestingProject
             Assert.AreEqual(1, 1);
             //test
             //test 2
+            Assert.AreEqual(2,3);
         }
     }
 }
