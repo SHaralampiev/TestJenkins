@@ -11,5 +11,14 @@ namespace TestingProject
         {
             Assert.AreEqual(1, 1);
         }
+
+        /// <summary>
+        /// Test Method
+        /// </summary>
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.AreEqual(1, 2);
+        }
     }
 }
