@@ -20,5 +20,10 @@ namespace TestingProject
         {
             Assert.AreEqual(1, 2);
         }
+        [TestMethod]
+        public void TestMethod3()
+        {
+            Assert.AreEqual(1, 1);
+        }
     }
 }
