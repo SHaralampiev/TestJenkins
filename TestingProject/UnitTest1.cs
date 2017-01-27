@@ -9,7 +9,7 @@ namespace TestingProject
         [TestMethod]
         public void TestMethod()
         {
-            Assert.AreEqual(1, 1);
+            Assert.AreEqual(1, 2);
         }
 
         /// <summary>
@@ -18,12 +18,12 @@ namespace TestingProject
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.AreEqual(1, 1);
+            Assert.AreEqual(1, 2);
         }
         [TestMethod]
         public void TestMethod3()
         {
-            Assert.AreEqual(1, 1);
+            Assert.AreEqual(1, 2);
         }
     }
 }

@@ -6,14 +6,14 @@ namespace ConsoleTest
     {
         private static void Main()
         {
-            var ob = new MSMQDemo();
-            ob.ProcessMsgs();
+            //var ob = new MSMQDemo();
+            //ob.ProcessMsgs();
 
 
-            Console.WriteLine(FibRecursive.FibMemoRecursion(6));
+            //Console.WriteLine(FibRecursive.FibMemoRecursion(6));
 
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
